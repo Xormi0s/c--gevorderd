@@ -1,0 +1,20 @@
+C:\Users\xormi\source\repos\Les3Oefening\Les3Oefening\bin\Debug\netcoreapp2.1\Les3Oefening.deps.json
+C:\Users\xormi\source\repos\Les3Oefening\Les3Oefening\bin\Debug\netcoreapp2.1\Les3Oefening.runtimeconfig.json
+C:\Users\xormi\source\repos\Les3Oefening\Les3Oefening\bin\Debug\netcoreapp2.1\Les3Oefening.runtimeconfig.dev.json
+C:\Users\xormi\source\repos\Les3Oefening\Les3Oefening\bin\Debug\netcoreapp2.1\Les3Oefening.dll
+C:\Users\xormi\source\repos\Les3Oefening\Les3Oefening\bin\Debug\netcoreapp2.1\Les3Oefening.pdb
+C:\Users\xormi\source\repos\Les3Oefening\Les3Oefening\obj\Debug\netcoreapp2.1\Les3Oefening.csprojAssemblyReference.cache
+C:\Users\xormi\source\repos\Les3Oefening\Les3Oefening\obj\Debug\netcoreapp2.1\Les3Oefening.csproj.CoreCompileInputs.cache
+C:\Users\xormi\source\repos\Les3Oefening\Les3Oefening\obj\Debug\netcoreapp2.1\Les3Oefening.AssemblyInfoInputs.cache
+C:\Users\xormi\source\repos\Les3Oefening\Les3Oefening\obj\Debug\netcoreapp2.1\Les3Oefening.AssemblyInfo.cs
+C:\Users\xormi\source\repos\Les3Oefening\Les3Oefening\obj\Debug\netcoreapp2.1\Les3Oefening.dll
+C:\Users\xormi\source\repos\Les3Oefening\Les3Oefening\obj\Debug\netcoreapp2.1\Les3Oefening.pdb
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# gevorderd\Les3Oefening\Les3Oefening\bin\Debug\netcoreapp2.1\Les3Oefening.deps.json
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# gevorderd\Les3Oefening\Les3Oefening\bin\Debug\netcoreapp2.1\Les3Oefening.runtimeconfig.json
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# gevorderd\Les3Oefening\Les3Oefening\bin\Debug\netcoreapp2.1\Les3Oefening.runtimeconfig.dev.json
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# gevorderd\Les3Oefening\Les3Oefening\bin\Debug\netcoreapp2.1\Les3Oefening.dll
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# gevorderd\Les3Oefening\Les3Oefening\bin\Debug\netcoreapp2.1\Les3Oefening.pdb
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# gevorderd\Les3Oefening\Les3Oefening\obj\Debug\netcoreapp2.1\Les3Oefening.AssemblyInfoInputs.cache
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# gevorderd\Les3Oefening\Les3Oefening\obj\Debug\netcoreapp2.1\Les3Oefening.AssemblyInfo.cs
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# gevorderd\Les3Oefening\Les3Oefening\obj\Debug\netcoreapp2.1\Les3Oefening.dll
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# gevorderd\Les3Oefening\Les3Oefening\obj\Debug\netcoreapp2.1\Les3Oefening.pdb

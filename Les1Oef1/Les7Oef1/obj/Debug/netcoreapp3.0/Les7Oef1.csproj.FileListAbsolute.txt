@@ -1,0 +1,11 @@
+C:\Users\xormi\source\repos\Les7Oef1\Les7Oef1\bin\Debug\netcoreapp3.0\Les7Oef1.exe
+C:\Users\xormi\source\repos\Les7Oef1\Les7Oef1\bin\Debug\netcoreapp3.0\Les7Oef1.deps.json
+C:\Users\xormi\source\repos\Les7Oef1\Les7Oef1\bin\Debug\netcoreapp3.0\Les7Oef1.runtimeconfig.json
+C:\Users\xormi\source\repos\Les7Oef1\Les7Oef1\bin\Debug\netcoreapp3.0\Les7Oef1.runtimeconfig.dev.json
+C:\Users\xormi\source\repos\Les7Oef1\Les7Oef1\bin\Debug\netcoreapp3.0\Les7Oef1.dll
+C:\Users\xormi\source\repos\Les7Oef1\Les7Oef1\bin\Debug\netcoreapp3.0\Les7Oef1.pdb
+C:\Users\xormi\source\repos\Les7Oef1\Les7Oef1\obj\Debug\netcoreapp3.0\Les7Oef1.csprojAssemblyReference.cache
+C:\Users\xormi\source\repos\Les7Oef1\Les7Oef1\obj\Debug\netcoreapp3.0\Les7Oef1.AssemblyInfoInputs.cache
+C:\Users\xormi\source\repos\Les7Oef1\Les7Oef1\obj\Debug\netcoreapp3.0\Les7Oef1.AssemblyInfo.cs
+C:\Users\xormi\source\repos\Les7Oef1\Les7Oef1\obj\Debug\netcoreapp3.0\Les7Oef1.dll
+C:\Users\xormi\source\repos\Les7Oef1\Les7Oef1\obj\Debug\netcoreapp3.0\Les7Oef1.pdb

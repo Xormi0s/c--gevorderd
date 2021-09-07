@@ -1,0 +1,10 @@
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# gevorderd\Les4Oefening\Les4Oefening\bin\Release\netcoreapp2.1\Les4Oefening.deps.json
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# gevorderd\Les4Oefening\Les4Oefening\bin\Release\netcoreapp2.1\Les4Oefening.runtimeconfig.json
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# gevorderd\Les4Oefening\Les4Oefening\bin\Release\netcoreapp2.1\Les4Oefening.runtimeconfig.dev.json
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# gevorderd\Les4Oefening\Les4Oefening\bin\Release\netcoreapp2.1\Les4Oefening.dll
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# gevorderd\Les4Oefening\Les4Oefening\bin\Release\netcoreapp2.1\Les4Oefening.pdb
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# gevorderd\Les4Oefening\Les4Oefening\obj\Release\netcoreapp2.1\Les4Oefening.csprojAssemblyReference.cache
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# gevorderd\Les4Oefening\Les4Oefening\obj\Release\netcoreapp2.1\Les4Oefening.AssemblyInfoInputs.cache
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# gevorderd\Les4Oefening\Les4Oefening\obj\Release\netcoreapp2.1\Les4Oefening.AssemblyInfo.cs
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# gevorderd\Les4Oefening\Les4Oefening\obj\Release\netcoreapp2.1\Les4Oefening.dll
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# gevorderd\Les4Oefening\Les4Oefening\obj\Release\netcoreapp2.1\Les4Oefening.pdb

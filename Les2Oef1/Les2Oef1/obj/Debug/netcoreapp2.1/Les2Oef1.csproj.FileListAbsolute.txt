@@ -1,0 +1,11 @@
+C:\Users\xormi\source\repos\Les2Oef1\Les2Oef1\bin\Debug\netcoreapp2.1\Les2Oef1.deps.json
+C:\Users\xormi\source\repos\Les2Oef1\Les2Oef1\bin\Debug\netcoreapp2.1\Les2Oef1.runtimeconfig.json
+C:\Users\xormi\source\repos\Les2Oef1\Les2Oef1\bin\Debug\netcoreapp2.1\Les2Oef1.runtimeconfig.dev.json
+C:\Users\xormi\source\repos\Les2Oef1\Les2Oef1\bin\Debug\netcoreapp2.1\Les2Oef1.dll
+C:\Users\xormi\source\repos\Les2Oef1\Les2Oef1\bin\Debug\netcoreapp2.1\Les2Oef1.pdb
+C:\Users\xormi\source\repos\Les2Oef1\Les2Oef1\obj\Debug\netcoreapp2.1\Les2Oef1.csprojAssemblyReference.cache
+C:\Users\xormi\source\repos\Les2Oef1\Les2Oef1\obj\Debug\netcoreapp2.1\Les2Oef1.csproj.CoreCompileInputs.cache
+C:\Users\xormi\source\repos\Les2Oef1\Les2Oef1\obj\Debug\netcoreapp2.1\Les2Oef1.AssemblyInfoInputs.cache
+C:\Users\xormi\source\repos\Les2Oef1\Les2Oef1\obj\Debug\netcoreapp2.1\Les2Oef1.AssemblyInfo.cs
+C:\Users\xormi\source\repos\Les2Oef1\Les2Oef1\obj\Debug\netcoreapp2.1\Les2Oef1.dll
+C:\Users\xormi\source\repos\Les2Oef1\Les2Oef1\obj\Debug\netcoreapp2.1\Les2Oef1.pdb
